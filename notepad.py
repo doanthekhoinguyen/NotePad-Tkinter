@@ -1,21 +1,4 @@
-"""
-Đoàn Thế Khôi Nguyên - Giáo Viên Part Time - Teky center 5 Quận 7 HCM
-Môn học : SNLTW-HP3
-Tên Sản Phẩm: Ứng Dụng NotePad
 
-Các kiến thức áp dụng trong sản phẩm
--Class
--Atribute
--Label
--Button
--Message box
--Frame
--Grid,Pack
--Toplevel
--Pillow chèn ảnh
--Scrolled Text,Dropdown box
--Write/Read file
-"""
 import tkinter
 from PIL import ImageTk, Image
 from tkinter import StringVar, IntVar, scrolledtext, END, messagebox, filedialog, Label, Toplevel
